@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sheng-Yong Niu's Website"
 title_separator          : "-"
-name                     : &name "Sheng-Yong (Simon) Niu"
+name                     : &name "Sheng-Yong Niu (Simon)"
 description              : &description "Associate Computational Biologist at the Broad Institute of MIT and Harvard (Eric Lander lab)"
 url                      : https://shengyongniu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sheng-Yong (Simon) Niu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Associate Computational Biologist at the Broad Institute of MIT and Harvard (Eric Lander lab)"
   location         : "Cambridge, Boston"
   employer         : "Broad Institute of MIT and Harvard"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
