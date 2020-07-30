@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Sheng-Yong Niu (Simon)"
   avatar           : "profile.png"
-  bio              : "Associate Computational Biologist at the Broad Institute (Eric Lander lab).      Enthusiast of Biomedicine, Artificial Intelligence and Entrepreneurship."
+  bio              : "Associate Computational Biologist at the Broad Institute (Eric Lander lab). <br/> Enthusiast of Biomedicine, Artificial Intelligence and Entrepreneurship."
   location         : "Cambridge, Massachusetts"
   employer         : "Broad Institute of MIT and Harvard"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xYwsmYkAAAAJ&hl=en"
   email            : "niu.shengyong@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Sheng_Yong_Niu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shengyongniu"
+  github           : #"shengyongniu"
   google_plus      :
   keybase          :
   instagram        :
